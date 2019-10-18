@@ -1,0 +1,40 @@
+div.modal-content ul {
+    flex-wrap: nowrap !important;
+    border: none !important;
+}
+
+div.modal-content ul > li {
+    flex: auto !important;
+    text-align: center !important;
+}
+
+div.modal-content ul > li > a.active {
+    color: crimson !important;
+    background-color: #fff !important;
+    border-bottom-color: transparent !important;
+    margin: 4px !important;
+    cursor: default !important;
+}
+
+div.modal-content ul > li > a {
+    background-color: #fff !important;
+    margin: 4px !important;
+}
+
+div.modal.fade:not(.show) {
+    opacity: 100 !important;
+}
+
+div.modal-content #tab_basic_info {
+    opacity: 100 !important;
+}
+
+div.modal-content table {
+    display: block !important;
+    width: 100% !important;
+    overflow-x: auto !important;
+}
+
+.nav.nav-pills.nav-stacked {
+    flex-wrap: nowrap !important;
+}

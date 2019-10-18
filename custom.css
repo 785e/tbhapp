@@ -1,0 +1,26 @@
+﻿.required {
+    color: red;
+}
+
+.column-title {
+    padding: 10px;
+    background: #22272D;
+}
+
+.btn-default {
+    color: #ccc;
+    background-color: transparent;
+    border-color: #ccc;
+}
+
+.datepicker {
+    color: #000000 !important;
+}
+
+.quick-link {
+    display: none !important;
+}
+
+.dt-buttons {
+    display: none !important;
+}
